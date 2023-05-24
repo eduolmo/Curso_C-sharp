@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Enumeracao\Enumeracao\bin\Debug\net7.0\Enumeracao.exe
+C:\Users\PC\source\repos\Enumeracao\Enumeracao\bin\Debug\net7.0\Enumeracao.deps.json
+C:\Users\PC\source\repos\Enumeracao\Enumeracao\bin\Debug\net7.0\Enumeracao.runtimeconfig.json
+C:\Users\PC\source\repos\Enumeracao\Enumeracao\bin\Debug\net7.0\Enumeracao.dll
+C:\Users\PC\source\repos\Enumeracao\Enumeracao\bin\Debug\net7.0\Enumeracao.pdb
+C:\Users\PC\source\repos\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.AssemblyInfo.cs
+C:\Users\PC\source\repos\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.dll
+C:\Users\PC\source\repos\Enumeracao\Enumeracao\obj\Debug\net7.0\refint\Enumeracao.dll
+C:\Users\PC\source\repos\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.pdb
+C:\Users\PC\source\repos\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.genruntimeconfig.cache
+C:\Users\PC\source\repos\Enumeracao\Enumeracao\obj\Debug\net7.0\ref\Enumeracao.dll
