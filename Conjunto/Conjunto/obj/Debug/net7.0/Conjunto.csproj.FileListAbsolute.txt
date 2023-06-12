@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Conjunto\Conjunto\bin\Debug\net7.0\Conjunto.exe
+C:\Users\PC\source\repos\Conjunto\Conjunto\bin\Debug\net7.0\Conjunto.deps.json
+C:\Users\PC\source\repos\Conjunto\Conjunto\bin\Debug\net7.0\Conjunto.runtimeconfig.json
+C:\Users\PC\source\repos\Conjunto\Conjunto\bin\Debug\net7.0\Conjunto.dll
+C:\Users\PC\source\repos\Conjunto\Conjunto\bin\Debug\net7.0\Conjunto.pdb
+C:\Users\PC\source\repos\Conjunto\Conjunto\obj\Debug\net7.0\Conjunto.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Conjunto\Conjunto\obj\Debug\net7.0\Conjunto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Conjunto\Conjunto\obj\Debug\net7.0\Conjunto.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Conjunto\Conjunto\obj\Debug\net7.0\Conjunto.AssemblyInfo.cs
+C:\Users\PC\source\repos\Conjunto\Conjunto\obj\Debug\net7.0\Conjunto.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Conjunto\Conjunto\obj\Debug\net7.0\Conjunto.dll
+C:\Users\PC\source\repos\Conjunto\Conjunto\obj\Debug\net7.0\refint\Conjunto.dll
+C:\Users\PC\source\repos\Conjunto\Conjunto\obj\Debug\net7.0\Conjunto.pdb
+C:\Users\PC\source\repos\Conjunto\Conjunto\obj\Debug\net7.0\Conjunto.genruntimeconfig.cache
+C:\Users\PC\source\repos\Conjunto\Conjunto\obj\Debug\net7.0\ref\Conjunto.dll
